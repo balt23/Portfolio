@@ -1,0 +1,62 @@
+/*
+body {
+    background-image: linear-gradient(to bottom right, purple, white);
+}
+*/
+
+.slideShow {
+    border: 15px solid red;
+    padding: 10px;
+/*
+    margin-top: 10px;
+    margin-left: 600px;
+*/
+    margin: 0px auto;
+    height: 700px;
+    width: 700px;
+    justify-content: center;
+}
+
+#momBgImg {
+    max-height: 650px;
+    max-width: 650px;
+/*    background-position: center;*/
+/*
+    background-size: cover;
+    position: relative;
+*/
+    margin: 0px auto;
+    
+}
+
+#famBgImg {
+    max-height: 650px;
+    max-width: 650px;
+/*    background-position: center;*/
+/*
+    background-size: cover;
+    position: relative;
+*/
+    margin: 0px auto;
+    
+}
+
+#annBgImg {
+    max-height: 650px;
+    max-width: 650px;
+/*    background-position: center;*/
+/*
+    background-size: cover;
+    position: relative;
+*/
+    margin: 0px auto;
+    
+}
+
+.title {
+/*    border: 15px solid red;*/
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 100px;
+    padding: 20px;
+}
